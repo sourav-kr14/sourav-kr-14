@@ -71,13 +71,6 @@ Currently, I am pursuing my **Master of Computer Applications (MCA)** from **BIT
 
 ---
 
-## 📊 GitHub Stats
-
-- ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav-kr14&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-kr14&layout=compact&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/thesouravv](https://linkedin.com/in/thesouravv)
