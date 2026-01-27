@@ -72,7 +72,7 @@ Currently, I am pursuing my **Master of Computer Applications (MCA)** from **BIT
 ---
 
 ## 🤝 Connect With Me
-
+- 🌐 **Portfolio:** [souravkumar.dev](https://portfolio-sigma-lime-37.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/thesouravv](https://linkedin.com/in/thesouravv)
 - 📧 **Email:** [souravkr93@gmail.com](mailto:souravkr93@gmail.com)
 - 🚀 **GitHub:** [github.com/sourav-kr14](https://github.com/sourav-kr14)
